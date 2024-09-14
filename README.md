@@ -1,6 +1,6 @@
 _Form Live : [https://5f7o2dd6.forms.app/bit-code-task-form]._
 
-_Webhook deplyed : [https://bitcode-form-handler.vercel.app/api/v1/form-handler/webhook]_
+_Webhook deplyed : [https://bitcode-form-handler.vercel.app/api/v1/form-handler/webhook] - /POST_
 
 _how to run the webhook / express server:_
 clone the github repo. create .env file. add PORT=5000 and JWT_123_FORM_BUIDLER="The JWT retrieved from the 123 form builder developer". after that run "npm run dev". note: you'll need nodemon installed.
