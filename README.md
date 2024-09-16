@@ -1,3 +1,15 @@
+# Bitcode Task 2 - Form
+
+Problem:
+
+The motive was to create a system that will receive user given data from `forms.app` and create a new form on the `123 form builder application`.
+
+Approach:
+
+1. Catching user given data from forms.app through webhook
+2. Formating the data retrieved from request body
+3. Creating new form dynamically with the user given data with proper jwt validation.
+
 # Form Live : [https://5f7o2dd6.forms.app/bit-code-task-form].
 
 # Webhook deplyed : [https://bitcode-form-handler.vercel.app/api/v1/form-handler/webhook] - /POST
