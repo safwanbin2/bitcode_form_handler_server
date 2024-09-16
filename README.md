@@ -8,7 +8,8 @@
 2. create .env file. add `PORT=5000` and `JWT_123_FORM_BUIDLER="The JWT retrieved from the 123 form builder developer site"`.
 3. run `npm install` to install all the required packages.
 4. after that run "npm run dev".
-   note: you'll need nodemon installed, the local URL of the webhook will not work on forms.app, so I have deployed in on vercel and shared it at the top.
+
+note: you'll need nodemon installed, the local URL of the webhook will not work on forms.app, so I have deployed it on vercel and shared it at the top.
 
 # Work Flow
 
